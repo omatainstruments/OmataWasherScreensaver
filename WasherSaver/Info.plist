@@ -21,7 +21,7 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2016 Julian Bleecker. All rights reserved.</string>
+	<string>Copyright © 2017 Omata Inc. All rights reserved.</string>
 	<key>NSPrincipalClass</key>
 	<string>WasherSaverView</string>
 	<key>UIAppFonts</key>
